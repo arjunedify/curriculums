@@ -1,0 +1,467 @@
+title:
+  prefix: Real Time
+  course: Azure DevOps Training
+# Rating of the course on a scale of 1 to 5
+rating: 4.5
+no_of_live_projects: 6
+# Mentions the duration of the course in months
+duration: 2
+job_roles:
+  - Azure DEVOPS ENGINEER
+  - SRE
+  - CLOUD ENGINEER
+  - RELEASE ENGINEER
+  - RELEASE ENGINEER
+  - AUTOMATION ENGINEER
+  - CI-CD SPECIALIST
+  - IAC ENGINEER
+  - DevOps ENGINEER
+  - 
+syllabus:
+  - title: Fundamentals Of SDLC - ALM
+    topics:
+      - Introduction to Software Development Life Cycle (Application Lifecycle Management)
+      - Execution of Software Development Life Cycle (Application Lifecycle Management)
+      - Types Of Applications
+      - Fundamentals of Web Applications
+      
+  - title: Learn Cloud Computing - AWS & AZURE
+    topics:
+      - Fundamentals of Datacenter
+      - Fundamentals of Servers
+      - Fundamentals of Cloud Computing
+      - AWS EC2
+      - Working with AWS Servers
+      - Azure Virtual Machines
+      - Working with Azure Vms
+     
+  - title: Linux OS
+    topics:
+      - Introduction to Operating Systems
+      - Introduction to Linux OS
+      - Linux Distributions
+      - Linux Architecture
+      - Command Line Interface - CLI
+      - Understanding CLI
+      - Linux Filesystem
+      - Linux Navigation
+      - File Management
+      - File Mangement Commands
+      - vi editor
+      - Archives - tar & zip Utilities
+      - Package Management
+      - Installations On Ubuntu
+      - Install deb files
+      - APT Package Manager
+      - Users & Permissions
+      - Create Users
+      - Create Groups
+      - Permissions
+      - Networking & Security
+      - IP Address
+      - Protocols & Ports
+      - DNS
+      - Firewalls
+      - Load Balancers
+  - title: Version Control System
+    topics:
+      - Introduction to Version Control System
+      - Centralised Version Control System
+      - Distributed Version Control System
+      - Git & GitHub Introduction
+      - Git Workflow
+      - GitHub For Collaboration
+      - Git Branching Model
+      - Git Merging Branches
+      - Pull Requests
+      - Git Rebase
+      - Detached Head
+      - Undoing Changes
+      - Git Ignore
+      - Tagging
+  - title: Azure Admin for Azure DevOps
+    topics:
+      - Introduction to Azure Cloud
+      - What is Microsoft Azure?
+      - Microsoft Azure Services
+      - Creating a Microsoft Azure Account
+      - Azure CLI, Azure PowerShell
+      - Managing Azure Resources & Subscriptions
+      - Azure Resource Manager
+      - Microsoft Azure Architecture
+      - Azure Resources Management and Azure Storage**
+      - Azure Resources & Subscriptions
+      - Azure Resource Manager
+      - Managing Azure Resources
+      - Azure Tags
+      - Azure Storage Account & its types
+      - Azure Blob Storage
+      - Azure Content Delivery Network (CDN)
+      - Azure Files Storage
+      - Azure File Sync
+      - Azure Virtual Machines
+      - Data Disks in Azure
+      - Azure VMs & Interfaces
+      - ARM templates and VHD templates
+      - Custom Images of Azure VM
+      - Virtual Machine Scale Sets
+      - Virtual Machine Availability Sets
+      - App Service plan
+      - Networking for an App Service
+      - Deployment slots
+      - Container image
+      - Azure Networking
+      - Azure Virtual Networks
+      - Azure Vnet Components
+      - IP Address 
+      - Public & Private IPs
+      - Azure Vnet Subnets
+      - Azure Network Interface Cards (NIC)
+      - Network Security Group (NSG)
+      - Route Tables and Service Tags
+      - Azure DNS and Private DNS
+      - Application Gateway
+      - Azure Front Door Service
+      - Azure Traffic Manager
+      - Application Security Groups
+      - Azure Load Balancers
+      - Azure Firewall
+      - Azure Bastion
+      - Network Watcher
+      - Azure Express Route
+      - Express Route Circuits and Express Route Peering
+      - Azure Active Directories
+      - Windows AD Vs Azure AD
+      - Azure AD Users
+      - Azure AD Groups
+      - Azure AD Domains
+      - Azure AD Tenants
+      - Authentication Options
+      - Azure AD Connect
+      - Self Service password Reset (SSPR)
+      - Multi Factor Authentication (MFA)
+      - Resource Locks
+      - Azure Monitoring**
+      - Azure Metrics
+      - Log Analytics
+      - Alerts and actions
+      - Application Insights
+      - Backup reports
+      - Recovery Services Vault
+      - Backing Up Azure Virtual Machines
+      - VM Backup Policies
+      - Restoring Azure Virtual machines
+  - title: Azure Boards 
+    topics:
+      - Introduction to Container Orchestration
+      - Container Orchestration Tools
+      - Overview of Kubernetes
+      - Kubernetes Architecture
+      - Components of Kubernetes
+      - Overview of Minikube
+      - Setup Minikube
+      - Kubernetes Objects
+      - Pods
+      - Replica Sets
+      - Deployments
+      - Services
+      - ClusterIP
+      - NodePort
+      - Load Balancer
+      - Config Maps
+      - Secrets
+      - Ingress
+      - Overview of Production Clusters
+      - Overview of AWS EKS
+      - Setup EKS
+      - Deploy Applications On EKS
+    
+    - title: Azure Repo
+    topics:
+      - Introduction to Azure Repos
+      - Compare TFVC and Git
+      - Key Concepts in Azure Repos
+      - Search your code in Repos
+      - What is TFVC?
+      - Azure Repos Integrations
+    
+  - title: Azure Pipelines
+    topics:
+      - What are Azure Pipelines?
+      - Why use Azure Pipelines
+      - Deploying to Azure
+      - Key concepts in Pipelines
+      - CI Triggers in pipelines
+      - YAML Basics
+      - Ecosystems and Integration
+      - Setting up CI build
+      - Adding Tests to the Pipeline
+      - Agents and Tasks
+
+  - title: Azure Test Plans & Artifacts
+    topics:
+      - What are Azure Artifacts?
+      - Key concepts in Artifacts
+      - Working with packages
+      - Feeds
+      - Views and upstream sources
+      - Connecting to Azure Pipelines
+      - What are Azure test plans?
+      - Exploratory and Manual testing
+      - Test from Kanban board
+      - Creating Test Plans
+      - Testing Web Apps
+      
+  - title: Containerisation with Docker
+    topics:
+      - Introduction to Containerisation
+      - Monolithic Architecture
+      - Microservices Architecture
+      - Introduction to Virtualisation
+      - Virtualisation vs Containerisation
+      - Docker Architecture
+      - Setting up Docker
+      - Docker Registry
+      - Docker Images Vs Docker Containers
+      - Running Docker Containers
+      - Docker Volumes
+      - Docker Networks
+      - Docker Logs
+      - Docker Tags
+      - Dockerize Applications
+      - Portability Using Docker Registry
+      - Docker Compose
+  - title:  Orchestration with Kubernetes 
+    topics:
+      - Introduction to Container Orchestration
+      - Container Orchestration Tools
+      - Overview of Kubernetes
+      - Kubernetes Architecture
+      - Components of Kubernetes
+      - Overview of Minikube
+      - Setup Minikube
+      - Kubernetes Objects
+      - Pods
+      - Replica Sets
+      - Deployments
+      - Services
+      - ClusterIP
+      - NodePort
+      - Load Balancer
+      - Config Maps
+      - Secrets
+      - Ingress
+      - Overview of Production Clusters
+      - Overview of AWS EKS
+      - Setup EKS
+      - Deploy Applications On EKS
+    
+  - title: Azure Kubernetes (AKS)
+    topics:
+      - AKS Storage
+      - AKS Virtual Nodes
+      - Azure Container Registry for AKS
+      - Azure AKS - Auto Scaling
+      - CI/CD with AKS
+      - Azure Monitoring Using AKS
+    
+
+  - title: Infrastructure as Code with Terraform
+    topics:
+      - Overview of Infrastructure As Code - IaC
+      - Overview of Terraform
+      - Terraform Resources
+      - Setup Terraform
+      - Terraform Providers
+      - AWS CLI Setup
+      - Setup AWS VPC - Terraform
+      - Setup AWS EC2 Server - Terraform
+      - Deploy Applications On AWS - Terraform
+      - Azure CLI Setup
+      - Setup Azure VNET - Terraform
+      - Setup Azure VM - Terraform
+      - Deploy Applications On Azure - Terraform
+      - Deploy Docker Containers - Terraform
+      - Azure Database Service - Terraform
+      - Azure Web Apps - Terraform
+
+  - title:  Ansible
+    topics:
+      -  Introduction To Ansible
+      - Ansible Setup
+      - Ansible Inventory
+      - Ansible Modules
+      - Ansible Ad-Hoc Commands
+      - Introduction To YAML
+      - Ansible Play books
+      - Ansible Handlers
+      - Ansible Facts & Variables
+      - Ansible Templates
+      - Ansible Roles
+
+  - title: Monitoring With Prometheus and Grafana
+    topics:
+      - Introduction to Monitoring
+      - Introduction to Prometheus
+      - Prometheus Architecture
+      - Monitoring With Prometheus
+      - Scrapping Metrics
+      - Node Exporter
+      - Infrastructure Metrics
+      - Applications Metrics
+      - Prometheus YAML Configs
+      - Prometheus With Docker
+      - Introduction to Visualisation
+      - Introduction To Grafana
+      - Installing Grafana on a Linux Server
+      - Grafana User Interface Overview
+      - Grafana With Docker
+      - Creating Grafana Dashboards
+
+  - title: Communication and Collaboration With Slack
+
+    topics:
+      - Getting started with Slack
+      - Starting with Channels
+      - Working with Messages
+      - Working with Calls
+      - Sharing Files and Conversations
+      - Searching and Shortcuts in Slack
+      - Slack Integrations with DevOps
+    
+
+  - title: Scripting With Python
+    topics:
+      - Python as a Scripting Language
+      - Python Collections and Sequences
+      - Working with Python Collections
+      - Python Functional Programming
+      - Python File Handling
+      - Python Modules and Packages
+      - Classes in Python
+      - Oops in Python
+      - Application of Scripting Languages
+      - Automation through Scripting Languages
+  
+tools:
+  - title: DevOps Tools
+    link: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/azure%20devops%20image-hXZ4F1s1iobj6NHE8AVA3EMir2mgJ0.jpg
+
+projects:
+  - title: 1. Hosting a Learning Management System (LMS) on Azure VMs
+    description: To host a Learning Management System (LMS) on Azure VMs, you need expertise in Azure services, LMS software, virtualization, security, and database management. Proficiency in networking, web server configuration, automation, and monitoring is essential. Effective communication, problem-solving, and project management skills are also critical for a successful deployment.
+    skills:
+      - Azure Cloud 
+      - Azure VM  
+      - Nginx
+    author: Ravi
+    director: Manikanta Kona
+    # Mentions the duration of the project in hours
+    duration: 4
+
+projects:
+  - title: 2. Deploying a Learning Management System (LMS) within Docker Containers
+    description: Dockerizing a Learning Management System (LMS) deployment requires expertise in containerisation with Docker, knowledge of the specific LMS software, and the ability to set up Docker Compose and container orchestration for effective management. Skills in networking, security, CI/CD pipelines, monitoring, and troubleshooting are essential for a smooth transition to a containerised LMS environment, enhancing scalability and resource efficiency.
+    skills:
+      - Azure Cloud 
+      - Docker   
+      - DockerFile
+      - Docker compose
+      - Networks
+    author: Ravi
+    director: Manikanta Kona
+    # Mentions the duration of the project in hours
+    duration: 4
+
+projects:
+  - title: 3. Building and Deploying LMS using Azure Pipeline (CI/CD ) - Docker
+    description: Implementing an LMS with Azure Pipeline and Docker Containers requires skills in Azure Pipeline for pipeline automation, Docker containerisation for LMS deployment, knowledge of the specific LMS software, and scripting proficiency to ensure seamless integration within the CI/CD process.
+    skills:
+      - Azure Cloud 
+      - Azure Pipelines   
+      - App Services
+      - ACR
+      - Static Webapp
+    author: Ravi
+    director: Manikanta Kona
+    # Mentions the duration of the project in hours
+    duration: 4
+
+projects:
+  - title: 4. Implement LMS on Minikube Kubernetes Environment
+    description: Building an LMS Environment on a Minikube Cluster requires skills in Kubernetes, containerisation, and Minikube cluster management. Proficiency in LMS software installation, configuration, and networking within Minikube is essential. Skills in troubleshooting and scaling for effective performance optimisation are also vital for project success.
+    skills:
+      - Azure Cloud 
+      - Minikube   
+      - Kubernetes
+      - Kubectl 
+      - K8s Objects
+    author: Ravi
+    director: Manikanta Kona
+    # Mentions the duration of the project in hours
+    duration: 4
+
+projects:
+  - title: 5. Implementing  (LMS) on Azure Kubernetes Service - AKS
+    description: Hosting an LMS on Azure AKS Infrastructure requires skills in Azure services, AKS cluster management, container orchestration, and network setup. Expertise in deploying and maintaining LMS software within Kubernetes containers is essential. Additionally, proficiency in security and compliance, monitoring, and scaling for optimal performance is crucial for this project.
+
+    skills:
+      - Azure Cloud 
+      - AKS   
+      - Kubernetes
+      - Kubectl 
+      - Azure Repo
+    author: Ravi
+    director: Manikanta Kona
+    # Mentions the duration of the project in hours
+    duration: 4
+
+projects:
+  - title: 6. LMS Operations with Azure Pipeline (CI/CD) and AKS Integration
+    description: Streamlining LMS Operations with CI/CD and AKS Integration demands skills in Continuous Integration/Continuous Deployment (CI/CD) pipelines, Azure AKS management, container orchestration, and network configuration. Proficiency in LMS software, security, and compliance is crucial for smooth integration. Furthermore, monitoring, scaling, and effective problem-solving skills ensure optimal performance and stability in this project.
+
+    skills:
+      - Azure Cloud 
+      - AKS   
+      - Kubernetes
+      - Kubectl 
+      - Azure Repo
+      - Azure Pipelines
+      - CICD
+    author: Ravi
+    director: Manikanta Kona
+    # Mentions the duration of the project in hours
+    duration: 4
+
+case_studies:
+  - title: Salesforce implementation of DevOps
+    description: Improving agility of Salesforece by deploying DevOps solutions based on the AWS systems to improve development governance, automation and bring new applications and services online more quickly.
+    logo: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/salesforce-fdDaoiM0fMHzXjTolJ5dM14i7tj0ho.png
+
+trained_engineers:
+  - name: Satish Korlapati
+    designation: Senior Associate Consultant
+    company: Infosys
+  - name: Srinivas Rao
+    designation: Senior Software Engineer
+    company: Infosys
+
+upcoming_batches:
+  - start_date: 2023-11-04
+    start_time: 8 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    type: weekday
+  - start_date: 2023-11-12
+    start_time: 8 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    end_date: 2024-01-03
+    type: weekend
+
+
+faqs:
+  - question: What is the duration of the course?
+    answer: The duration of the course is 3 months.
+  - question: What are the prerequisites for this course?
+    answer: There are no prerequisites for this course. However, having a basic knowledge of Linux and Networking will be beneficial.
+  - question: Who are the instructors and how are they selected?
+    answer: All our instructors are working professionals from the Industry and have at least 10-12 yrs of relevant experience in various domains. They are selected after going through a rigorous selection process that includes profile screening, technical evaluation, and a training demo before they are certified to train for us. We also ensure that only those trainers with a high alumni rating remain on our faculty.
