@@ -1,0 +1,172 @@
+title:
+  prefix: Real Time
+  course: Python Training
+# Rating of the course on a scale of 1 to 5
+rating: 4.5
+no_of_live_projects: 2
+# Mentions the duration of the course in months
+duration: 2
+job_roles:
+  - Software Engineer
+  - Python Developer
+  - Software Developer
+  - Research Analyst
+  - Data Analyst
+syllabus:
+  - title: Basic Python
+    topics:
+      - Motivation & Applicability to various domains 
+      - Installation & Setting up path Input / Output
+      - Keywords and Identifiers, Variables and Data Types
+      - Conditional Statements
+      - Looping, Control flow (along with loops)
+      - Strings and Features
+      - String Manipulation, Functions
+  - title: Python Collections And Sequences  
+    topics:
+      - Lists and Features
+      - List Functions
+      - List Comprehension
+      - Tuple and Features
+      - Functions and Methods
+      - Dictionaries
+      - Sets and Frozen sets
+  - title: Working with Python Collection 
+    topics:
+      - Working with Lists and Tuples
+      - Working with Dictionaries
+      - Working with Sets and Frozen Sets
+  - title: Python Functional  Programming 
+    topics:
+      - Types of functions
+      - Function Arguments
+      - Anonymous functions
+      - Special functions (map , reduce , filter)
+  - title: Python File Handling 
+    topics:
+      - Files
+      - File operations Part - 1
+      - File operations Part - 2
+      - Handling excel , csv files
+  - title: Python Modules And Packages 
+    topics:
+      - Modules
+      - Importing module
+      - Packages
+      - Math , Random and OS module
+  - title: Class in Python 
+    topics:
+      - Classes
+      - Objects
+      - Constructors and Destructors
+      - Types of Methods
+  - title: OOPS in Python
+    topics:
+      - Inheritance
+      - Polymorphism
+      - Magic methods
+      - Operator Overloading
+      - Data hiding (Abstraction)
+      - Encapsulation
+  - title: Database Programming with python  
+    topics:
+      - Introduction of MySQL
+      - Connections and Queries
+      - PlSQL / MySQL
+      - Multithreading
+      - Regular expressions
+  - title: GITHUB Version Control 
+    topics:
+      - Creating a Repository
+      - Files State
+      - Commit and undo Commit
+      - File Removing
+      - File Merging
+      - Git Remove, PULL, PUSH, CLONE
+  - title: Exception Handling in Python 
+    topics:
+      - Exception Handling
+      - Try & finally clause
+      - User-Defined Exceptions
+  - title: Advanced Python 
+    topics:
+      - TKinter GUI programming
+      - Web Scraping (BS4)
+
+  - title: Python for Data Science 
+    topics:
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - Seaborn
+      - Jupyter Notebook
+
+  - title: Python with Django 
+    topics:
+      - Features of Django
+      - Installing Django
+      - MVC model
+      - Views
+      - URL Mapping
+  - title: Python with Flask
+    topics:
+      - installing Flask
+      - Creating a Flask app
+      - HTTP GET and POST Request Methods in Flask
+      - Flask Folder Hierarchy
+
+tools:
+  - title: Python Django
+    link: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/Screenshot%202023-10-26%20at%203.49.19%20PM-vJ28KbwLAFYtjqb3f2c6mLV03J3UUv.png
+
+projects:
+  - title: Climate change plotting project ( Global Warming )
+    description: In this application, we use a dataset sourced directly from NOAA (National Oceanic and Atmospheric Administration) and plot that data in Python using.
+    skills:
+      - Python
+      - Development
+      - Django
+    author: Ravi
+    director: Manikanta
+    # Mentions the duration of the project in hours
+    duration: 5
+  - title: ATM Software Python Project
+    description: ATM Simulator project built-in Python that has a python script (atm.py).This is a console-based system which is very easy to use for the user. This system, it contains various transactional.
+    skills:
+      - Python
+      - Development
+      - Django
+    author: Ravi
+    director: Manikanta
+    # Mentions the duration of the project in hours
+    duration: 5
+
+case_studies:
+  - title: Byjus lead generation -(django / flask) [Lead Tracker]
+    description: This case study covers on the databases that are easy to manage than manually maintaining a data document with all the details - From who walked into the organization and students who were certified by the organization.
+    logo: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/salesforce-fdDaoiM0fMHzXjTolJ5dM14i7tj0ho.png
+
+trained_engineers:
+  - name: Satish Korlapati
+    designation: Senior Associate 
+    company: Infosys
+  - name: Srinivas Rao
+    designation: Senior Software Engineer
+    company: Infosys
+
+upcoming_batches:
+  - start_date: 2023-11-09
+    start_time: 8 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    type: weekday
+  - start_date: 2023-11-09
+    start_time: 9 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    type: weekend
+faqs:
+  - question: What is the duration of the course?
+    answer: The duration of the course is 2 months.
+  - question: What are the prerequisites for this course?
+    answer: There are no prerequisites for this course. However, having a basic logical thiniking is must.
+  - question: Who are the instructors and how are they selected?
+    answer: All our instructors are working professionals from the Industry and have at least 10-12 yrs of relevant experience in various domains. They are selected after going through a rigorous selection process that includes profile screening, technical evaluation, and a training demo before they are certified to train for us. We also ensure that only those trainers with a high alumni rating remain on our faculty.
