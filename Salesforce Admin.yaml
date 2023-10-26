@@ -1,0 +1,204 @@
+title:
+  prefix: Real Time
+  course: Salesforce Admin 
+# Rating of the course on a scale of 1 to 5
+rating: 4.5
+no_of_live_projects: 3
+# Mentions the duration of the course in months
+duration: 3
+job_roles:
+  - Salesforce Adminstrator
+  - Salesforce Business Analyst
+  - Salesforce CRMDeveloper
+  - Salesforce Developer
+  - Salesforce Architect
+  - Salesforce Consultant
+syllabus:
+  - title: Introduction Salesforce 
+    topics:
+      - CRM
+      - Cloud Computing
+      - History
+      - Trailhead
+  - title: Salesforce Environment Setup 
+    topics:
+      - Developer Org Setup
+      - Business Hours
+      - Fiscal Years
+      - Holidays
+      - User
+      - Profile
+      - Rolest
+  - title: Building your Data Model
+    topics:
+      - Object Manager
+      - Standard object & Fields
+      - Custom Objects
+      - Fields & DataTypes
+      - Relationships
+      - Schema Builder
+      - Create a Page Layouts
+      - Deleting Fields & Fields Dependence
+      - Path Settings
+      - Business Process & Record Types
+      - Lightning App Builder
+  - title: Salesforce Data Security 
+    topics:
+      - Create a User
+      - Create a Profiles
+      - Create a Roles
+      - OWD Settings
+      - Object Level Security
+      - Record Level Security
+      - Fields Level Security
+      - Permission Sets & Permission set groups
+      - Public Groups & Queues
+  - title: Salesforce DataManagement
+    topics:
+  - **Salesforce** **DataLoader**
+        - Import Data
+        - Export Data
+        - Delete Data
+  - **Salesforce data Backup**
+        - What is data Backup
+        - Advantages for Data Backup
+        - Odaseva (Data Backup Tool)
+  - **Salesforce Meta Data Backup**
+        - What is Meta data ?
+        - Advantages for Metadata backup
+        - Alation(Meta Data Backup Tool)
+
+  - title: Salesforce Reports & DashBoards 
+    topics:
+  - **Salesforce Reports**
+        - Tabular
+        - Summary
+        - Matrix
+        - Joined
+  - **Salesforce DashBoards**
+        - Vertical bar chart
+        - Horizontal bar chart
+        - Stacked horizontal bar chart
+        - Stacked vertical bar chart
+        - Line chart
+        - Donut chart
+        - Metric chart
+        - Gauge chart
+        - Funnel chart
+        - Scatter chart
+        - Lightning table
+  - title: Salesforce Automation Process  
+    topics:
+  - **Approval Process**
+        - Initial Submission Actions
+        - Final Approval Actions
+        - Final Rejection Actions
+        - Recall Actions
+  - **WorkFlow Rules**
+        - Defining Workflow
+        - Workflow Actions
+        - Email Alert
+        - Task Creation
+        - Field Updation
+        - Outbound Message
+        - Difference between Evaluation Criteria and Rule Criteria
+        - Time based workflows
+  - **Process Builder**
+        - Creating Records
+        - Updating Records
+        - Posting on Chatter
+        - Quick Action
+        - Calling or Triggering Apex Code
+        - Invoking Another Process
+  - **Automation Flows**
+        - Screen Flow
+        - Record-Triggered Flow
+        - Schedule-Triggered Flow
+        - Platform Event-Triggered Flow
+        - Auto-Launched Flow
+  - title: Implementing Business Logics 
+    topics:
+  - **Email Templates**
+        - Classic Email Template
+        - Lightning Email Template
+  - **Validation Rules**
+        - System Validation rules
+        - Custom Validation rules
+  - **Formula Fields**
+  - **Roll Up Summary Fields**
+    
+  
+
+tools:
+  - title: WorkBench
+    link: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/Screenshot%201945-07-28%20at%205.09.06%20PM-B9QuLysBkIfFsa3AMcbnoxmWG2yHVW.png
+projects:
+  - title: Sales Cloud Implementation for KonaLMS
+    description: Find, choose, and compare Learning Management Systems with Salesforce Cloud Integration in the Top LMS Software directory of eLearning Industry. KonaLMS is a platform for collaborative learning. It enables companies to upskill from within by turning their experts into champions for employee, customer, and partner growth. The goal is to enable globally distributed workforce access learning programs from a centralized repository, ensuring content consistency, delivery, and evaluation across geographies
+    skills:
+      - Objects & Fileds 
+      - Validation Rules
+      - PageLayouts
+      - Reports & Dashboards 
+      - Approval Process 
+      - Flows
+      - 
+    author: Arjun
+    director: Manikant
+    # Mentions the duration of the project in hours
+    duration: 50
+projects:
+  - title: Service Cloud Implementation for KonaLMS
+    description: KonaLMS allows organizations to easily manage service interactions with their customers and build great relationships. The goal is to enable Salesforce Service Cloud Implementation with other third-party platforms to give organizations a wonderful and connected experience. Through this process, Kona Mars will be able to provide you with great solutions and help make customer service conversations more intelligent on any platform, anywhere, anytime.
+    skills:
+      - Object & Fileds 
+      - Omini Channel 
+    author: Arjun
+    director: Manikant
+    # Mentions the duration of the project in hours
+    duration: 25
+
+projects:
+  - title: Sales Cloud Implementation for DigitalLync
+    description: Expertise in configuring Sales Cloud to meet the specific requirements of the educational service company, including customising objects, fields, and page layouts, and creating custom reports and dashboards,Automation for the application with Flows , Email Automation, Custom Notifications, Web to Lead Generation Experience in Agile development Methodologies such as Scrum and Using tools such as Azure and Trello
+    skills:
+      - Object & Fileds 
+      - PageLayouts
+      - Record Types 
+      - Validation Rules
+      - Flows 
+      - Reports & DashBoards  
+    author: Arjun
+    director: Manikant
+    # Mentions the duration of the project in hours
+    duration: 50
+upcoming_batches:
+  - start_date: 2023-11-04
+    start_time: 8 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    type: weekday
+  - start_date: 2023-11-15
+    start_time: 8 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    end_date: 2023-12-05
+    type: weekend
+
+
+faqs:
+  - question: Who should take this course 
+    answer: Our Salesforce training has precisely been developed to reach out to the demand of the learners with keeping in mind the industry standards. This DevOps course will particularly be helpful for the career advancement of the following audience
+            Graduates from College.
+            Currently working employees looking to upskill themselves.
+            Candidates looking for a change in the IT Field.
+  - question: What are the prerequisites for this course?
+    answer: As such, there are no specific prerequisites for Salesforce Training in Hyderabad. If you are familiar with programming and foundation skills with a sense of curiosity and willingness to learn you are all set for the Salesforce training.
+  - question: When are the classes Conducted 
+    answer: Salesforce Training Classes are conducted over the Weekdays and Weekends through classroom and online sessions. Please get in touch with the Digital Lync team to get exact schedule and timings.
+  - question: What is the duration of the course 
+    answer: Salesforce Course duration is 3 Months 
+  - question: what is the duration of the class
+    answer: Weekday Salesforce Training classes will be one hour long and Weekend classes will be three hours long.
+  - question: what is course Curriculum
+    answer: Please find the detailed Salesforce course curriculum in the Digital Lync Salesforce training curriculum section.
+  - question: Do you help in interview  preparation
+    answer: Yes, we will assist our students with all the interview preparation techniques.  
