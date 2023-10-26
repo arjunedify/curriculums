@@ -1,0 +1,373 @@
+title:
+  prefix: Real Time
+  course: QA Training
+# Rating of the course on a scale of 1 to 5
+rating: 4.5
+no_of_live_projects: 2
+# Mentions the duration of the course in months
+duration: 2
+job_roles:
+  - QA Engineer
+  - Test Analyst
+  - Test Engineer
+  - Test Manager
+  - QA Team Lead
+syllabus:
+  - title: Fundamentals Of Testing 
+    topics:
+      - Motivation & Applicability to various domains 
+      - **What is Testing?**
+      - Identify typical objectives of testing
+      - Differentiate testing from debugging
+      - **Why is Testing Necessary?**
+      - Testing’s Contributions to Success
+      - Quality Assurance and Testing
+      - Distinguish between error, defect, and failure
+      - Defects, Root Causes and Effects
+      - **Test Process**
+      - Test Process in Context
+      - Test Activities and Tasks
+      - Test Work Products
+      - Traceability between the Test Basis and Test Work Products**4. The Psychology of Testing**
+      - Human Psychology and Testing
+      - Testers and Developers Mindsets
+
+  - title: Testing Throughout the software Development Life Cycle  
+    topics:
+      - **Software Development Lifecycle Models**
+      - Software Development and Software Testing
+      - Software Development Lifecycle Models in Context
+      - **Test Levels**
+      - Component Testing
+      - Integration Testing
+      - System Testing
+      - Acceptance Testing
+      - **Test Types**
+      - Functional Testing
+      - Non-functional Testing
+      - White-box Testing
+      - Change-related Testing
+      - Test Types and Test Levels
+      - Compare functional, non-functional and white-box testing
+  - title: Static Testing 
+    topics:
+      - **Static Testing Basics**
+      - Work Products that Can Be Examined by Static Testing
+      - Benefits of Static Testing
+      - **Differences between Static and Dynamic Testing**
+      - Review Process
+      - Work Product Review Process
+      - Roles and responsibilities in a formal review
+      - Review Types
+      - Applying Review Techniques
+      - Success Factors for Reviews
+  - title: Test Techniques
+    topics:
+      - **Categories of Test Techniques**
+      - Choosing Test Techniques
+      - Categories of Test Techniques and Their Characteristics
+      - **Black-box Test Techniques**
+      - Equivalence Partitioning
+      - Boundary Value Analysis
+      - Decision Table Testing
+      - State Transition Testing
+      - Use Case Testing
+      - Decision Testing and Coverage
+      - **Experience-based Test Techniques**
+      - Error Guessing
+      - Exploratory Testing
+  - title: Test Management 
+    topics:
+      - **Test Organization**
+      - Independent Testing
+      - Tasks of a Test Manager and Tester
+      - **Test Planning and Estimation**
+      - Purpose and Content of a Test Plan
+      - Test Strategy and Test Approach
+      - Entry Criteria and Exit Criteria (Definition of Ready and Definition of Done)
+      - Test Execution Schedule
+      - Factors Influencing the Test Effort
+      - Test Estimation Techniques
+      - **Test Monitoring and Control**
+      - Metrics Used in Testing
+      - Purposes, Contents, and Audiences for Test Reports
+      - **Configuration Management**
+      - **Risks and Testing**
+      - Definition of Risk
+      - Product and Project Risks
+      - Risk-based Testing and Product Quality
+      - Defect Management
+  - title: Agile & Scrum 
+    topics:
+      - What is Agile Testing?
+      - Scrum Introduction
+      - Getting Agile with Scrum
+      - Scrum Approach
+      - Release Planning
+      - Sprint Planning
+      - Product backlog
+      - Concept of Epics
+      - Writing Epics – Examples
+      - Concept of User Stories
+      - Writing User Stories- Examples
+      - Defining Tasks
+      - Starting Sprint
+      - Monitoring Sprint status
+      - Completing Sprint
+  - title: Java For Automation Testing 
+    topics:
+      - Classes
+      - **Java Programming Basics**
+      - Why Java for Selenium
+      - Installing Java
+      - Installing Eclipse
+      - Creating Java Project
+      - First Java program
+      - Concept of class file
+      - Datatypes in Java
+      - String class and functions
+      - Conditional Statements
+      - Loops
+      - Arrays
+      - Operators
+      - What are Functions?
+      - Function Input Parameters
+      - Function Return Types
+      - Function Return Types
+      - **Object Oriented Programming in JAVA**
+      - Local Variables
+      - Global Variables
+      - Static and Non-Static Variables
+      - Static and Non-Static Functions
+      - Creating Objects in Java
+      - Meaning of static
+      - Why is the main method static?
+      - Overloading and Overriding Functions
+      - Access Modifiers – Public/Private/Default/Protected
+      - Constructors
+      - Interface
+      - Usage of Objects in Selenium
+      - Inheritance
+      - Usage of Inheritance in Selenium
+      - Creating Packages
+      - Accessing Classes across Packages
+      - **Object Exception Handling**
+      - Exception handling with try catch block
+      - Importance of exception handling
+      - Exception and Error
+      - Throwable Class
+      - Final and Finally
+      - Throw and Throws
+      - Different Types of Exceptions
+      - Need of exception handling in Selenium framework
+      - **Automating Excel file Operations using Apache POI**
+      - Creating/Opening XL Files
+      - Reading data from XL Sheet
+      - Writing data into XLSheet
+      - Counting Rows and Columns in XL Sheet
+      - Filling BG/Font Colors
+      - Creating ExcelUtils Class.
+  - title: Selenium For Automation 
+    topics:
+      - **Selenium Introduction**
+      - What is Selenium?
+      - Who developed Selenium?
+      - Selenium Components
+      - Introduction to WebDriver
+      - Installing Selenium WebDriver
+      - Architecture of Selenium Webdriver
+      - Creating your First Script in Webdriver
+      - **Launching AUT and Inspecting properties of Elements**
+      - Launching AUT in Firefox
+      - Launching AUT in Internet Explorer
+      - Launching AUT in Chrome
+      - Launching AUT in Safari
+      - Inspecting properties of Elements on different Browsers
+      - Creating Firefox Profile
+      - Finding elements using Locators
+      - **Creating Customize XPath/CSS Selectors**
+      - What is XPath
+      - When to Use XPath
+      - Absolute XPath/Relative XPath
+      - Specifying conditions with XPath
+      - CSS Selectors
+      - **Automating WebElements Operations**
+      - Browser
+      - TextBox
+      - ListBox
+      - Links
+      - Check Box
+      - Radio Button
+      - HTML Tables
+      - Calendars
+      - **Automating Keyboard and Mouse Events**
+      - Action Class
+      - KeyBoard Events
+      - Drag & Drop Actions
+      - Mouse Hover Action
+      - RightClick, Double Click & Tool Tip
+      - **Handling Alerts**
+      - accept()
+      - dismiss()
+      - getText()
+      - **Handling Frames**
+      - What is iFrame?
+      - Locating Frames
+      - Handling Frames
+      - **Handling multiple Windows**
+      - getwindowHandle()
+      - getwindowHandles()
+      - Switching between windows
+      - Handling elements present in different windows
+      - **Synchronization**
+      - ImplicitWait
+      - WebDriverWait
+      - FluentWait
+      - PageLoadTimeout
+      - **AutoIT**
+      - Installing AutoIT
+      - Components of AutoIT
+      - Using FinderTool
+      - AutoIT commands
+      - Creating Scripts in AutoIT
+      - Creating executable files
+      - Running AutoIT Scripts from Selenium
+  - title: Test NG
+    topics:
+      - Advantages of TestNG over JUnit
+      - Why do we need TestNG in Selenium?
+      - Installing TestNG in Eclipse
+      - Creating a New TestNG Test File
+      - TestNG annotations
+      - TestNG assertions
+      - Running the TestNG Test
+      - Checking reports created by TestNG
+      - Creating multiple Tests
+      - Prioritizing Tests
+      - Parameterizing Tests with @dataProvider
+      - TestNGdataProvider with Excel
+      - Creating and Running Test Suites with TestNG.xml
+      - Sequential Test Execution with TestNG
+      - Parallel Test Execution with TestNG
+  - title: Cucumber
+    topics:
+      - Overview of BDD and Cucumber
+      - How to install and setup Cucumber with Eclipse
+      - Overview of Gherkin keywords
+      - How to create Feature file
+      - How to generate Step Definition file
+      - How to integrate Cucumber with Selenium WebDriver
+      - JUnit Test Runner Class
+      - Data Driven Testing in Cucumber
+      - Configure Cucumber with Maven and Jenkins
+      - How generate Reports in Cucumber
+  - title: GIT Version Control 
+    topics:
+      - Introduction to Version Control System
+      - Centralized Version Control System
+      - Distributed Version Control System
+      - Git Introduction
+      - Git Architecture
+      - Git Workflow
+      - Git Branching Model
+      - Git Merging Branches
+      - Detached Head For Retroscoping
+      - Undoing Changes
+      - Git Ignore
+      - GitHub For Remote Repositories
+      - Using existing GIT Repositories With Clone
+      - Pull Requests
+      - Tagging
+  - title: Build Management with Maven 
+    topics:
+      - Introduction to Build Management
+      - Introduction to Maven
+      - Maven Lifecycle Phases
+      - Maven Plugins
+      - Building Java Applications
+  - title: SonarQube for Code Analyst 
+    topics:
+      - Introduction To Unit Testing
+      - Perform White Box Testing
+      - Analyzing Bugs and Vulnerabilities
+      - Integration Of SonarQube with Maven
+
+  - title: Jenkins for CI/CD
+    topics:
+      - Introduction To Continuous Integration
+      - Introduction To Continuous Delivery
+      - Best Practices of CI-CD
+      - Overview of Jenkins
+      - Setting Up Jenkins
+      - Setting Up Build Jobs
+      - Build Parameters
+      - Build Triggers
+      - Jenkins Plugins
+      - Using GitHub Webhooks
+      - Automatically Build Binaries Using Maven On Code Changes
+      - Distributed Builds Master - Slave Configuration
+      - Code Quality Integration With SonarQube to test development code
+      - Automated Releases Using Nexus Integration
+      - Continuous Deployments
+      - CI - CD Pipeline
+      - Pipeline As Code
+  - title: Test management Using Jira 
+    topics:
+      - JIRA Introduction
+      - How to Install JIRA
+      - JIRA Features
+      - Creating Scrum Project in JIRA
+      - Adding Users to our JIRA Account
+      - JIRA Issue types
+      - Workflow for a Project
+      - Creating Product backlog in JIRA
+      - Creating EPICS in JIRA
+      - Creating User Stories in JIRA
+      - Starting Sprint
+      - Writing TestCases in JIRA
+      - Executing TestCases from JIRA
+      - Adding Bugs to the JIRA Project
+      - Attaching screenshots of defects in JIRA
+tools:
+  - title: Software Testing
+    link: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/Screenshot%202023-10-26%20at%204.23.03%20PM-zWbuH2uHuT2onJuNQzTypHEp8UfuU1.png
+
+projects:
+  - title: Learning Management Systems
+    description: In this application, Kona LMS offers the best professional LMS made to cater to industry requirements. LMS Is built with State of Art Technology with World Class features
+    skills:
+      - Selenium
+      - Cucumber
+      - SonarQube
+    author: Ravi
+    director: Manikanta
+    # Mentions the duration of the project in hours
+    duration: 5
+case_studies:
+  - title: Byjus lead generation -(django / flask) [Lead Tracker]
+    description: This case study covers on the databases that are easy to manage than manually maintaining a data document with all the details - From who walked into the organization and students who were certified by the organization.
+    logo: https://3ro8b0zdvxfbk7jy.public.blob.vercel-storage.com/salesforce-fdDaoiM0fMHzXjTolJ5dM14i7tj0ho.png
+trained_engineers:
+  - name: Satish Korlapati
+    designation: Senior Associate 
+    company: Infosys
+  - name: Srinivas Rao
+    designation: Senior Software Engineer
+    company: Infosys
+
+upcoming_batches:
+  - start_date: 2023-11-09
+    start_time: 8 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    type: weekday
+  - start_date: 2023-11-09
+    start_time: 9 AM (IST)
+    duration: 1hr-1.5hrs / Per Session
+    type: weekend
+faqs:
+  - question: What is the duration of the course?
+    answer: The duration of the course is 2 months.
+  - question: What are the prerequisites for this course?
+    answer: There are no prerequisites for this course. However, having a basic logical thiniking is must.
+  - question: Who are the instructors and how are they selected?
+    answer: All our instructors are working professionals from the Industry and have at least 10-12 yrs of relevant experience in various domains. They are selected after going through a rigorous selection process that includes profile screening, technical evaluation, and a training demo before they are certified to train for us. We also ensure that only those trainers with a high alumni rating remain on our faculty.
